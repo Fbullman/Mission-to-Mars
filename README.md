@@ -1,7 +1,7 @@
 # Mission-to-Mars
 
 ## Overview
-Build a web application to scrape different websites for data pertaining to a Mission to Mars, including the latest news, the featured image, and the images of Mars's hemispheres.
+Build a web application to scrape different websites for data pertaining to a Mission to Mars, including the latest news, featured images, images of Mars's hemispheres.
 
 ### Summary
 * Use HTML elements to identify content for web scraping 
